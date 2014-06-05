@@ -2,3 +2,5 @@ $ cat .gitignore
 *.[oa]
 *~
 *.txt
+.RData
+.Rhistory
